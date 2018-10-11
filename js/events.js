@@ -30,7 +30,7 @@ $(document).ready(function(){
 
 // call functions here
 getIt();
-framIt();
+frameIt();
 pressIt();
 submitIt();
 
