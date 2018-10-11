@@ -6,10 +6,15 @@ function getIt() {
 }
 
 function frameIt() {
-  $('.tasty').on("load", function(){
+  $('img').on("load", function(){
     
   })
 }
+
+function pressIt() {
+  $("form").on("keydown", function(key) {
+    if (key.which === )
+  })
 
 
 $(document).ready(function(){
